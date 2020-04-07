@@ -1,0 +1,33 @@
+20-04-07 15.57.23 __init__ ('Телефонная книга',) {} None
+20-04-07 15.57.23 add_contact ('Jhon', 'Smith', '+71234567809') {'telegram': '@jhony', 'email': 'jhony@smith.com'} None
+20-04-07 15.57.23 add_contact ('John', 'Lennon', '+79234856583') {'telegram': '@lennon', 'email': 'lennon@google.com', 'favourites': True} None
+20-04-07 15.57.23 add_contact ('Paul', 'McCartney', '+79140945983') {'telegram': '@mccartney', 'email': 'mccartney@mail.ru'} None
+20-04-07 15.57.23 add_contact ('George', 'Harrison', '+79152358345') {'telegram': '@george', 'email': 'george@yandex.ru', 'favourites': True} None
+20-04-07 15.57.23 add_contact ('Ringo', 'Starr', '+79184445326') {'telegram': '@ringo', 'email': 'ringo@yandex.ru'} None
+20-04-07 15.57.23 view_contacts () {} None
+20-04-07 15.57.23 view_favourite () {} None
+20-04-07 15.57.23 search_contact ('+71234567809',) {} None
+20-04-07 15.57.23 delete_contact ('+71234567809',) {} None
+20-04-07 15.57.23 view_contacts () {} None
+20-04-07 15.57.50 __init__ ('Телефонная книга',) {} None
+20-04-07 15.57.50 add_contact ('Jhon', 'Smith', '+71234567809') {'telegram': '@jhony', 'email': 'jhony@smith.com'} None
+20-04-07 15.57.50 add_contact ('John', 'Lennon', '+79234856583') {'telegram': '@lennon', 'email': 'lennon@google.com', 'favourites': True} None
+20-04-07 15.57.50 add_contact ('Paul', 'McCartney', '+79140945983') {'telegram': '@mccartney', 'email': 'mccartney@mail.ru'} None
+20-04-07 15.57.50 add_contact ('George', 'Harrison', '+79152358345') {'telegram': '@george', 'email': 'george@yandex.ru', 'favourites': True} None
+20-04-07 15.57.50 add_contact ('Ringo', 'Starr', '+79184445326') {'telegram': '@ringo', 'email': 'ringo@yandex.ru'} None
+20-04-07 15.57.50 view_contacts () {} None
+20-04-07 15.57.50 view_favourite () {} None
+20-04-07 15.57.50 search_contact ('+71234567809',) {} None
+20-04-07 15.57.50 delete_contact ('+71234567809',) {} None
+20-04-07 15.57.50 view_contacts () {} None
+20-04-07 15.57.52 __init__ ('Телефонная книга',) {} None
+20-04-07 15.57.52 add_contact ('Jhon', 'Smith', '+71234567809') {'telegram': '@jhony', 'email': 'jhony@smith.com'} None
+20-04-07 15.57.52 add_contact ('John', 'Lennon', '+79234856583') {'telegram': '@lennon', 'email': 'lennon@google.com', 'favourites': True} None
+20-04-07 15.57.52 add_contact ('Paul', 'McCartney', '+79140945983') {'telegram': '@mccartney', 'email': 'mccartney@mail.ru'} None
+20-04-07 15.57.52 add_contact ('George', 'Harrison', '+79152358345') {'telegram': '@george', 'email': 'george@yandex.ru', 'favourites': True} None
+20-04-07 15.57.52 add_contact ('Ringo', 'Starr', '+79184445326') {'telegram': '@ringo', 'email': 'ringo@yandex.ru'} None
+20-04-07 15.57.52 view_contacts () {} None
+20-04-07 15.57.52 view_favourite () {} None
+20-04-07 15.57.52 search_contact ('+71234567809',) {} None
+20-04-07 15.57.52 delete_contact ('+71234567809',) {} None
+20-04-07 15.57.52 view_contacts () {} None
